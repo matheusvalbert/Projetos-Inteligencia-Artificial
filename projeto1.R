@@ -1,6 +1,3 @@
-# LEONARDO PIGATTO BUENO - RA: 17139692
-# MATHEUS VALBERT        - RA: 17055641
-
 #importacao bibliotecas que serao utilizadas para classificacao
 library(rpart)
 library(rpart.plot)
