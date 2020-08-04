@@ -1,6 +1,3 @@
-# LEONARDO PIGATTO BUENO - RA: 17139692
-# MATHEUS VALBERT        - RA: 17055641
-
 #Observação todos os plots foram comentados no código para uma execução mais rápida
 
 library(nnet)
