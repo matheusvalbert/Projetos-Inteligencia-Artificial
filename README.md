@@ -1,5 +1,3 @@
-# Projetos-Inteligencia-Artificial
-
 # Introdução
 ```
 Estes projetos foram desenvolvidos no sétimo semestre na disciplina de Inteligência Artificial.
