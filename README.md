@@ -20,6 +20,6 @@ Foi realizado diferentes plots para o melhor entendimento do dataset.
 Foram utilizados diferentes métodos para se verificar desempenho e acertividade. Os métodos de classificação utilizados foram: redes neurais, redes neurais utilizando keras, support vector machine e árvore de decisão.
 
 # Começando a utilizá-lo
-```
+
 Este projeto foi desenvolvido utilizando o R studio.
 Após o download dos arquivos é necessário a descompactação de todos os arquivos e a importação do código para o R studio.
